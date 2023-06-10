@@ -1,0 +1,6 @@
+/test-directory
+/node_modules
+
+# typescript
+*.ts
+tsconfig.json
